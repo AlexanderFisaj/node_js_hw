@@ -1,0 +1,9 @@
+{
+  "name": "npm_project",
+  "version": "1.0.0",
+  "description": "Homework on mastering the functionality of the npm package manager JavaScript",
+  "main": "myProjectNpm.js",
+  "author": "Fisaj Alexander (student)",
+  "license": "ISC",
+  "description": "My awesome library"
+}
